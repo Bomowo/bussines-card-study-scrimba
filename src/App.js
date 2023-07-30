@@ -1,8 +1,15 @@
+import Info from './components/Info';
+import About from './components/About';
+import Interests from './components/Interests.js';
+import Footer from './components/Footer';
 
 function App() {
   return (
     <div className="App">
-     <h1>Test for work</h1>
+     <Info />
+     <About />
+     <Interests />
+     <Footer />
     </div>
   );
 }
