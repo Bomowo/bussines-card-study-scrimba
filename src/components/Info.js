@@ -10,10 +10,10 @@ export default function Info () {
                 <h3>Frontend Developer</h3>
                 <p>Bomowo</p>
                 <a href="mailto: oeccc25@yahoo.com">
-                    <button className='email' ><FontAwesomeIcon icon={faEnvelope} /> Email</button>
+                    <button className='email' ><FontAwesomeIcon icon={faEnvelope} className='icon'/> Email</button>
                 </a>
                 <a href="https://www.linkedin.com/in/alexander-osipchuk-b899a01b2" target="_blank"  rel="noreferrer">
-                    <button className='linkendin' ><FontAwesomeIcon icon={faLinkedin} />LinkedIn </button>
+                    <button className='linkendin' ><FontAwesomeIcon icon={faLinkedin} className='icon'/>LinkedIn </button>
                 </a>
             </div>)
 }

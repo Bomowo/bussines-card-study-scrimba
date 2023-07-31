@@ -48,6 +48,9 @@ img {
     width: 115px;
     height: 34px;
 }
+.info .icon{
+    margin-right: 8px;
+}
 .info .email{
     color: #374151;
 }
