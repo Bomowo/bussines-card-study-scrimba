@@ -74,7 +74,7 @@ img {
     line-height: 150%;
 }
 footer{
-    margin-top: auto;
+    margin-top: 24px;
     border-radius: 0 0 10px 10px;
     background-color: #161619;
 }
